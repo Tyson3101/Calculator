@@ -1,0 +1,11 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "esnext",
+    "watch": true,
+    "target": "esnext",
+    "sourceMap": false,
+    "removeComments": true,
+    "lib": ["DOM", "ESNext", "DOM.Iterable"]
+  }
+}
